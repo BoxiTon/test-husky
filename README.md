@@ -22,8 +22,6 @@
 
 ## 已知问题
 
-
-
 ```sh
 ## 用cmd执行否者会报错
 echo "module.exports = { extends: ['@commitlint/config-conventional'] }" > commitlint.config.js
