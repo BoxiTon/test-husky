@@ -29,4 +29,4 @@ echo "module.exports = { extends: ['@commitlint/config-conventional'] }" > commi
 
 ## test git husky
 
-test for vscode git again
+test for vscode git
